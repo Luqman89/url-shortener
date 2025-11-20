@@ -41,3 +41,47 @@ Dibangun menggunakan **Laravel 12**, **React**, **TailwindCSS**, dan **Inertia.j
 git clone https://github.com/Luqman89/url-shortener.git
 cd url-shortener
 ```
+
+# 2. Install Dependencies
+
+```bash
+composer install
+npm install
+```
+
+# 3. Copy .env
+
+```bash
+cp .env.example .env
+```
+
+# 4. Generate App Key
+
+```bash
+php artisan key:generate
+```
+
+# 5. Migrate Database
+
+```bash
+php artisan migrate
+
+```
+
+# 6. Run Development Server
+
+Backend:
+
+```bash
+php artisan serve
+```
+
+Frontend:
+
+```bash
+npm run dev
+```
+
+📜 License
+
+MIT License
