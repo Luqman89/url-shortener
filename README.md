@@ -81,7 +81,7 @@ php artisan migrate
 ```bash
 php artisan serve
 npm run dev
+```
 
 License
 MIT
-```
