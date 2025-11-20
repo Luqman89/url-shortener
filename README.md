@@ -5,6 +5,14 @@ Dibangun menggunakan **Laravel 12**, **React**, **TailwindCSS**, dan **Inertia.j
 
 ---
 
+## Tampilan Project
+
+### Home Page
+
+![Home Page](srenshoot-readme/home-page.png)
+
+---
+
 ## 🚀 Features
 
 -   Memperpendek URL secara otomatis
@@ -35,7 +43,7 @@ Dibangun menggunakan **Laravel 12**, **React**, **TailwindCSS**, dan **Inertia.j
 
 ## 📦 Installation
 
-### 1. Clone Repository
+1. Clone Repository
 
 ```bash
 git clone https://github.com/Luqman89/url-shortener.git
@@ -82,6 +90,5 @@ Frontend:
 npm run dev
 ```
 
-📜 License
-
-MIT License
+License
+MIT
