@@ -35,40 +35,40 @@ Dibangun menggunakan **Laravel 12**, **React**, **TailwindCSS**, dan **Inertia.j
 
 ## Installation
 
-# 1. Clone Repository
+### 1. Clone Repository
 
 ```bash
 git clone https://github.com/Luqman89/url-shortener.git
 cd url-shortener
 ```
 
-# 2. Install Dependencies
+2. Install Dependencies
 
 ```bash
 composer install
 npm install
 ```
 
-# 3. Copy .env
+3. Copy .env
 
 ```bash
 cp .env.example .env
 ```
 
-# 4. Generate App Key
+4. Generate App Key
 
 ```bash
 php artisan key:generate
 ```
 
-# 5. Migrate Database
+5. Migrate Database
 
 ```bash
 php artisan migrate
 
 ```
 
-# 6. Run Development Server
+6. Run Development Server
 
 Backend:
 
