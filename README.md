@@ -1,6 +1,6 @@
 # 🔗 URL Shortener – Laravel + React (Inertia.js)
 
-Project sederhana untuk mempersingkat URL panjang menjadi link pendek.  
+Aplikasi sederhana untuk mempersingkat URL panjang menjadi link pendek.  
 Dibangun menggunakan **Laravel 12**, **React**, **TailwindCSS**, dan **Inertia.js**.
 
 ---
@@ -33,13 +33,13 @@ Dibangun menggunakan **Laravel 12**, **React**, **TailwindCSS**, dan **Inertia.j
 
 ---
 
-## Installation
+## 📦 Installation
 
 ### 1. Clone Repository
 
 ```bash
 git clone https://github.com/Luqman89/url-shortener.git
-cd url-shortener
+cd url-shortene
 ```
 
 2. Install Dependencies
