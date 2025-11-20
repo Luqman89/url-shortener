@@ -49,7 +49,7 @@ export default function Home() {
                     <form onSubmit={shorten} className="space-y-4">
                         <input
                             className="w-full border border-gray-300 p-3 rounded-xl focus:ring-2 focus:ring-blue-500 focus:outline-none"
-                            placeholder="Masukkan URL panjang..."
+                            placeholder="Masukkan URL..."
                             value={url}
                             onChange={(e) => setUrl(e.target.value)}
                         />
