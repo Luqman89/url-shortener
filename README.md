@@ -78,17 +78,10 @@ php artisan migrate
 
 6. Run Development Server
 
-Backend:
-
 ```bash
 php artisan serve
-```
-
-Frontend:
-
-```bash
 npm run dev
-```
 
 License
 MIT
+```
